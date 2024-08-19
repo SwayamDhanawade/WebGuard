@@ -15,7 +15,7 @@ A minimal Python script to block websites on your local machine by modifying sys
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/WebGuard.git
+    git clone https://github.com/SwayamDhanawaded/WebGuard.git
     ```
 2. Navigate to the project directory:
     ```bash
