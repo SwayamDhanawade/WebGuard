@@ -10,27 +10,26 @@ A minimal Python script to block websites on your local machine by modifying sys
 - Block any website by adding its URL to the block list.
 - Modify the hosts file to prevent access to specific websites.
 - Simple and lightweight script with no external dependencies.
-- Works on Windows, macOS, and Linux.
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/python-website-blocker.git
+    git clone https://github.com/yourusername/WebGuard.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd python-website-blocker
+    cd WebGuard
     ```
 
 ## Usage
 
-1. Open the `website_blocker.py` script.
+1. Open the `WebGuard.py` script.
 2. Add the websites you want to block to the `sites_to_block` list:
     ```python
     sites_to_block = ["www.example.com", "www.anotherexample.com"]
     ```
 3. Run the script as an administrator:
     ```bash
-    python website_blocker.py
+    python WebGuard.py
     ```
